@@ -1,0 +1,97 @@
+[
+    {
+        "biosignal": {
+            "accuracies": "Binary: fine Gaussian SVM: no cs: 57.6%, minor: 74.2%, severe: 81.8%",
+            "algorithm": "Fine Gaussian SVM, linear SVM, KNN",
+            "binaryMulticlass": "Binary and Multiclass",
+            "biosignal": "ECG, EOG, blink rate, breathing rate, GSR",
+            "classificationType": "Detection"
+        },
+        "citeThis": {
+            "autors": "Garcia-Agundez A, Reuter C, Becker H, Konrad R, Caserman P, Miede A, Göbel ",
+            "doi": "https://doi.org/10.1089/g4h.2019.0045",
+            "title": "Development of a Classifier to Determine Factors Causing Cybersickness in Virtual Reality Environments",
+            "year": "2019"
+        },
+        "demographic": {
+            "ageRange": "-",
+            "female": "-",
+            "male": "-",
+            "mean": "-",
+            "people": "66"
+        },
+        "devicesChannelsPowerband": {
+            "channelsUsed": "-",
+            "device": "-",
+            "powerBandFrequencies": "-"
+        },
+        "featureExtraction": {
+            "featureFusion": "Yes",
+            "importantFeatures": "Combination of game content vectors, heart rate, blink rate, respiratory rate, galvanic skin response",
+            "selectionMethods": "HR, breathing rate, respiration rate using peak detection algorithm"
+        },
+        "id": "10028",
+        "immersion": {
+            "modeStimulus": "Oculus rift DK2",
+            "movingStill": "None",
+            "standingSittingActive": "Active sitting (visual)",
+            "vrContent": "VR plane flying"
+        },
+        "measure": "Electrical potentials of eye movement",
+        "preprocessingMethods": {
+            "preprocessing": "Mean and standard deviation on game content vectors"
+        },
+        "reportingStyles": {
+            "cybersicknessLabelling": "Entire VR immersion",
+            "nonCybersicknessLabelling": "SSQ score cut of",
+            "report": "SSQ"
+        }
+    },
+    {
+        "biosignal": {
+            "accuracies": "uyuyy",
+            "algorithm": "uyuyy",
+            "binaryMulticlass": "uyuy",
+            "classificationType": "uyuyy"
+        },
+        "citeThis": {
+            "autors": "yuyuy",
+            "doi": "yuyuy",
+            "title": "yuyuy",
+            "year": "yuyuy"
+        },
+        "demographic": {
+            "ageRange": "uyuyuy",
+            "female": "uyuy",
+            "male": "yuyuy",
+            "mean": "uyuyuy",
+            "people": "yuyuy"
+        },
+        "devicesChannelsPowerband": {
+            "channelsUsed": "uyuyy",
+            "device": "uyuyy",
+            "powerBandFrequencies": "yuyuy"
+        },
+        "featureExtraction": {
+            "featureFusion": "uyuyy",
+            "importantFeatures": "yuyuy",
+            "selectionMethods": "yuyuy"
+        },
+        "id": "00001",
+        "immersion": {
+            "modeStimulus": "yuyuyuy",
+            "movingStill": "uyuy",
+            "standingSittingActive": "yuyuyy",
+            "vrContent": "uyuyy"
+        },
+        "measure": "ytytyty",
+        "preprocessingMethods": {
+            "preprocessing": "yuyuy"
+        },
+        "reportingStyles": {
+            "cybersicknessLabelling": "uyuy",
+            "nonCybersicknessLabelling": "yuyuy",
+            "report": "yuyuy"
+        }
+    }
+]
